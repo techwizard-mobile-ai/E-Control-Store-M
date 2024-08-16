@@ -1,5 +1,6 @@
-# e_store
+# E-Control-Store-M
 
+This is for the Ecommerce Mobile Project.
 A new Flutter project.
 
 ## Getting Started
